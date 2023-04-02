@@ -42,4 +42,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
   ## Heroku Live Link:
   https://patrickstexteditor19.herokuapp.com/
-  
+
+
+## ScreenShot
+<img width="1905" alt="Screenshot 2023-04-02 at 5 28 30 PM" src="https://user-images.githubusercontent.com/114114167/229379934-8dece5ef-5eec-4f3d-b8c3-c245a2e5ccb8.png">
